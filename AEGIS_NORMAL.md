@@ -1,15 +1,18 @@
-# Aegis (Normal) changelog
+# Aegis Normal changelog
+
+Aegis Normal has been discontinued, and all of its features have been moved to Aegis Escanor.
+Please migrate immediately and use Aegis Escanor going forward.
 
 ### 9.3.0 Genjutsu
-- Added 1.18 support and fixed a few things.
+- Added Minecraft 1.18 support and fixed a few things.
 
 ### 9.2.1 Genjutsu
-- Added 16 java support
-- Added 1.17.1 minecraft support
+- Added 16 Java support
+- Added Minecraft 1.17.1 support
 - Fixed some bugs
 
 ### 9.2.0 Genjutsu
-- 1.17.x support (in normal version)
+- Added Minecraft 1.17 support
 
 ### 9.1.1 Normal
 - Fixed some licensing things

@@ -1,4 +1,4 @@
 # LobbySystem changelog
 
 ### V1.0
-- Fixed some bugs
+- Initial release

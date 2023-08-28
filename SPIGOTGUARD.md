@@ -1,7 +1,7 @@
 # SpigotGuard changelog
 
 ### 6.4.3
-- Support for java 8 up to java 16
+- Support for Java 8 up to Java 16
 - Fixed some little bugs
 - Improved code
 - `/spigotguard reload` can now also be executed from the console
@@ -28,6 +28,6 @@
 - Fixed new GasClient crasher
 
 ### V6.0 GENJUTSU
-- 1.16.5 support
+- Added 1.16.5 Support
 - Minor bugfixes
 - Fixed false positives
